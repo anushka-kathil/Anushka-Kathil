@@ -43,9 +43,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Anushka-Kathil&show_icons=true&theme=graywhite&bg_color=00000000&border_color=44475a&title_color=ff79c6&text_color=b6b6b6&icon_color=ffb86c" alt="GitHub Stats" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Kathil&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
+-->
 
 
 <p align="center">
@@ -54,13 +56,13 @@
 
 ---
 
-<h3 align="center">🎵 Spotify Now Playing</h3>
+<!-- <h3 align="center">🎵 Spotify Now Playing</h3>
 <p align="center">
   <img src="https://novatorem-Anushka-Kathil.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
 </p>
+-->
 
-
----
+<!-- --- -->
 
 <h3 align="center">⚡ Fun Fact</h3>
 <p align="center">
