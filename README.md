@@ -72,23 +72,34 @@
 </p>
 
 ---
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushka-Kathil&show_icons=true&theme=react&hide_border=true&bg_color=00000000&title_color=ff79c6&text_color=b6b6b6&icon_color=ffb86c" alt="Anushka's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushka-Kathil&show_icons=true&theme=react&hide_border=false&title_color=ff79c6&text_color=b6b6b6&icon_color=ffb86c" 
+       alt="Anushka's GitHub Stats" 
+       style="border:2px solid #ff79c6; border-radius:10px; background-color:#1e1e1e; padding:10px;"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Kathil&theme=react&hide_border=true&stroke=0000&background=00000000&ring=ff79c6&currStreakLabel=ffb86c" alt="GitHub Streak"
+  style="border:2px solid #ff79c6; border-radius:10px; background-color:#1e1e1e; padding:10px;"  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Kathil&theme=react&hide_border=true&stroke=0000&background=00000000&ring=ff79c6&currStreakLabel=ffb86c" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Kathil&layout=compact&theme=react&hide_border=false&title_color=ff79c6&text_color=b6b6b6" 
+       alt="Top Languages" 
+       style="border:2px solid #ff79c6; border-radius:10px; background-color:#1e1e1e; padding:10px;"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Kathil&layout=compact&theme=react&hide_border=true&bg_color=00000000&title_color=ff79c6&text_color=b6b6b6" alt="Top Languages"/>
 
+<!--
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anushka-Kathil&theme=onestar&no-bg=true&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anushka-Kathil&theme=onestar&no-bg=true&no-frame=true&margin-w=15&row=1&column=6" 
+       alt="GitHub Trophies" 
+       style="border:2px solid #ff79c6; border-radius:10px; background-color:#1e1e1e; padding:10px;"/>
 </p>
+
 
 ---
 
