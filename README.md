@@ -26,15 +26,14 @@
 
 ---
 
-<h1 align="center">🌐 Socials</h1>
+<h2 align="center">🔗 Socials</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anushka-kathil-201850203/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+   <a href="https://www.linkedin.com/in/anushka-kathil-201850203/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
   <a href="https://twitter.com/anushkakat92518" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/X.svg" width="40" height="40" alt="X (Twitter)"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
@@ -42,25 +41,53 @@
 
 
 
----
-<h1 align="center">💻 Tech Stack </h1>
 
-<p align="center"> <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a> <a href="#"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></a> <a href="#"><img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/MVVM-25A162?style=flat-square&logo=android&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /></a> <a href="#"><img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/BlueJ-00274D?style=flat-square&logo=bluej&logoColor=white" /></a> </p>
 
 
 ---
 
-<h1 align="center">📊 GitHub Stats</h1>
-
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushka-Kathil&show_icons=true&theme=graywhite&bg_color=00000000&border_color=44475a&title_color=ff79c6&text_color=b6b6b6&icon_color=ffb86c" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/MVVM-25A162?style=flat-square&logo=android&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/BlueJ-00274D?style=flat-square&logo=bluej&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
 </p>
 
+---
 
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anushka-Kathil&theme=onestar&no-bg=true&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushka-Kathil&show_icons=true&theme=react&hide_border=true&bg_color=00000000&title_color=ff79c6&text_color=b6b6b6&icon_color=ffb86c" alt="Anushka's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Kathil&theme=react&hide_border=true&stroke=0000&background=00000000&ring=ff79c6&currStreakLabel=ffb86c" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Kathil&layout=compact&theme=react&hide_border=true&bg_color=00000000&title_color=ff79c6&text_color=b6b6b6" alt="Top Languages"/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anushka-Kathil&theme=onestar&no-bg=true&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
