@@ -49,6 +49,7 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
+  <!-- canva -->
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
