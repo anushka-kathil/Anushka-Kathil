@@ -17,8 +17,7 @@
 
 <ul>
   <li>📚 <b>Data Structures & Algorithms (DSA)</b> – mastering logic and problem solving</li>
-  <li>📱 <b>Android App Development</b> – Kotlin, Jetpack Compose, Firebase</li>
-  <li>🌐 <b>MERN Stack</b> – MongoDB, Express.js, React.js, Node.js</li>
+  <li>📱 <b>Android App Development</b> – React Native, TypeScript, Kotlin, Jetpack Compose, Firebase</li>
 </ul>
 
 📫 **How to reach me:**  
