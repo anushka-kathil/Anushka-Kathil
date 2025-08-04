@@ -58,6 +58,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="transform: scale(1.25); margin: 4px;" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" style="transform: scale(1.25); margin: 4px;" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
   <img src="https://img.shields.io/badge/MVVM-25A162?style=flat-square&logo=android&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" style="transform: scale(1.25); margin: 4px;" />
